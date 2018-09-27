@@ -5,7 +5,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<<<<<<< HEAD
         <title>Eje logistica</title>
+=======
+        <title>Ejelogistica</title>
+>>>>>>> 39f6de66dc073b08fcf5af5336bb639e5f69309e
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
@@ -79,7 +83,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     EJE LOGITICA
+=======
+                    EJE LOGISTICA
+>>>>>>> 39f6de66dc073b08fcf5af5336bb639e5f69309e
                 </div>
 
                 <div class="links">
